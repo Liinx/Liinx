@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there I'm Lynx</h1>
+<h1 align="center">👋 Hi there I'm Nenad also know as Lynx</h1>
   
   
 
