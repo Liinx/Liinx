@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently working on [Time Tokens](https://github.com/liinx/timetokens)
 - 📫 You can reach me at my discord Lynx#1712  
-  
-![](https://komarev.com/ghpvc/?username=liinx)  
+<br>
 
  
  
