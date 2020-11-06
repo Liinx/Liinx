@@ -2,7 +2,7 @@
   
   
 
-- 🔭 I’m currently working on [Time Tokens](https://github.com/liinx/timetokens)
+- 🔭 I’m currently working on [Time Tokens](https://github.com/liinx/timetokens), [Smart Announcers](https://github.com/liinx/smartannouncers) and [Harrow](https://github.com/liinx/harrow)
 - 📫 You can reach me at my discord Lynx#1712  
 <br>
 
