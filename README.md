@@ -7,7 +7,7 @@
     - [Smart Announcers](https://github.com/liinx/smartannouncers) - Soon...  
     - [Harrow](https://github.com/liinx/harrow) - Library containing tools that can be used for spigot plugins development.  
 
-- 📫 You can reach me on my discord Lynx#1712  
+- 📫 You can reach me on my discord **Lynx#1712**  
 <br>
 
  
