@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on:   
     - [Time Tokens](https://github.com/liinx/timetokens) - Highly configurable plugin for token shops and token rewarding based on time played and much more!    
-    - [Smart Announcers](https://github.com/liinx/smartannouncers) - Soon...  
+    - [Smart Announcers](https://github.com/liinx/smartannouncers) - Modular announcers plugin offering many different and extremely configurable announcers setups.   
     - [Harrow](https://github.com/liinx/harrow) - Library containing tools that can be used for spigot plugins development.  
 
 - 📫 You can reach me on my discord **Lynx#1712**  
